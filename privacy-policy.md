@@ -1,6 +1,6 @@
 # Política de Privacidad de Chika
 
-**Última actualización:** Septiembre 15, 2024 2024
+**Última actualización:** Septiembre 15, 2024
 
 Esta Política de Privacidad explica cómo recopilamos, usamos y protegemos la información a través de Chika (en adelante, "el Bot"). Al utilizar nuestro Bot, aceptas las prácticas descritas en esta política.
 ### 1. Información que Recopilamos
